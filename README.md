@@ -32,7 +32,7 @@ Contoh dari software version control system adalah:
 # CARA KERJA GIT DAN GITHUB
 
 
-##Mengapa menggunakan git ?
+## Mengapa menggunakan git ?
 
 Kontrol versi adalah satu-satunya cara yang masuk akal untuk melacak perubahan dalam kode, manuskrip, presentasi, dan proyek analisis data. 
 Saya biasa membuat file tar.gz bernomor untuk sebuah proyek. Tetapi mengeksplorasi perbedaan itu sulit, untuk sedikitnya. 
